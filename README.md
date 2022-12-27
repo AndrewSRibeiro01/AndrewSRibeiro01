@@ -28,12 +28,12 @@
   
   <div display="inline-block" align="left">
 
-<h4>Linguagem R 👉<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code><br>
+<h5>Linguagem R 👉<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code><br>
   Robot Framework👉<code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/472eeac53d7b016a6bf00d8ff75d274c2217887f/robot.png" width="40" height="40"/></code><p>
  Phyton👉<code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code><p> 
   Machine learning    👉🧠<p>
   Deep learning👉🦾<p>
-    </h4>
+    </h5><hr>
     
 <!-- <div style="height:30px">
 <img src="https://github.com/AndrewSRibeiro01/AndrewSRibeiro01/blob/main/Gato.gif" alt="Dino" style="width: 650px; height:350px ; display: inline-block;" data-
@@ -42,7 +42,7 @@ target="animated-image.originalImage">
 !--> 
   
   <div display="inline-block" align="center">
-  <h5>:computer: Minhas Tecnologias e Ferramentas🛠️</h5>
+  <h4>:computer: Minhas Tecnologias e Ferramentas🛠️</h4>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></code>
@@ -60,8 +60,9 @@ target="animated-image.originalImage">
      
      
   <h2> Fatos sobre mim</h2>
-<h5>🪢Branca e vermelha no muai thay, gosto de musculação, faço faculdade de Gestão da tecnologia da informação, estou sempre buscando novos conhecimentos!<br> 
-Obs: Coisas que sempre ouvimos 👉 "Na minha maquina funciona."🙄🤯😡
+<h5>🪢Branca e vermelha no muai thay, gosto de musculação, faço faculdade de Gestão da tecnologia da informação, estou sempre buscando novos conhecimentos!<br> <hr>
+Obs: Coisas que sempre ouvimos 👇🏻<br> 
+"Na minha maquina funciona."🙄🤯😡
 <br></h5>
 </div>
 
