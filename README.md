@@ -23,7 +23,7 @@
     
   </div>
   <div display="inline-block" align="left">
-  <h2>📖Atualmente estou aprendendo:👇</h2>
+  <h3>📖Atualmente estou aprendendo:👇</h3>
   </div>
   
   <div display="inline-block" align="left">
@@ -42,7 +42,7 @@ target="animated-image.originalImage">
 !--> 
   
   <div display="inline-block" align="center">
-  <h2>:computer: Minhas Tecnologias e Ferramentas🛠️</h2>
+  <h5>:computer: Minhas Tecnologias e Ferramentas🛠️</h5>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></code>
