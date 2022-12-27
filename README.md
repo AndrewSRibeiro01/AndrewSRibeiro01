@@ -6,7 +6,7 @@
 
 <div style="height:30px">
   
-  <img src="https://github.com/AndrewSRibeiro01/AndrewSRibeiro01/blob/main/Gato.gif" alt="Dino" style="width: 1500px; height:280px ; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://github.com/AndrewSRibeiro01/AndrewSRibeiro01/blob/main/Gato.gif" alt="Dino" style="width: 650px; height:350px ; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
