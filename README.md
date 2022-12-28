@@ -42,7 +42,7 @@ target="animated-image.originalImage">
 !--> 
   
   <div display="inline-block" align="center">
-  <h4>:computer: Minhas Tecnologias e Ferramentas🛠️</h4>
+  <h3>:computer: Minhas Tecnologias e Ferramentas🛠️</h3>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></code>
@@ -59,7 +59,7 @@ target="animated-image.originalImage">
     <hr>
      
      
-  <h2> Fatos sobre mim</h2>
+  <h3> Fatos sobre mim</h3>
 <h5>🪢Branca e vermelha no muai thay, gosto de musculação, faço faculdade de Gestão da tecnologia da informação, estou sempre buscando novos conhecimentos!<br> <hr>
 Obs: Coisas que sempre ouvimos 👇🏻<br> 
 "Na minha maquina funciona."🙄🤯😡
