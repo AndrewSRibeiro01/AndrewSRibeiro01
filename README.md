@@ -42,7 +42,7 @@ target="animated-image.originalImage">
 !--> 
   
   <div display="inline-block" align="center">
-  <h4>:computer: Minhas Tecnologias e Ferramentas🛠️</h4>
+  <h3>:computer: Minhas Tecnologias e Ferramentas🛠️</h3>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></code>
