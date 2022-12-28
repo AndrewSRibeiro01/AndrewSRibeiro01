@@ -17,7 +17,7 @@
 <h5>👉 Tenho 24 anos, moro em Santa Isabel/SP sou iniciante na carreira de Quality Assurence :mag: :beetle:</h5>
 </div>
   
-  <div display="inline-block" align="right">
+  <div display="inline-block" align="center">
     
   <img width="350px" src="https://user-images.githubusercontent.com/116013992/209679421-2c29b657-e4bd-4675-9a91-1d74a7ad6909.png">
     
