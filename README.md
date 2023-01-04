@@ -32,6 +32,7 @@
   Robot Framework👉<code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/472eeac53d7b016a6bf00d8ff75d274c2217887f/robot.png" width="40" height="40"/></code><p>
  Phyton👉<code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code><p> 
   RabbitMQ👉<code><img src="https://user-images.githubusercontent.com/116013992/209855479-5e59cee9-8138-46c2-8ec0-6edf528fe7be.png" width="40" height="40"/></code><p>
+  Java👉<code><img src="pngwing.com (1).png" width="40" height="40"/></code><p>
   Machine learning    👉🧠<p>
   Deep learning👉🦾<p>
     </h5><hr>
