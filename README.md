@@ -14,7 +14,7 @@
   
 <h2>Seja bem vindo ao meu perfil do GitHub:smiley:</h2> 
 <div display="inline-block" align="left">
-<h5>👉 Tenho 24 anos, moro em Santa Isabel/SP sou iniciante na carreira de Quality Assurence :mag: :beetle:</h5>
+<h5>👉🏻 Tenho 24 anos, moro em Santa Isabel/SP sou iniciante na carreira de Quality Assurence :mag: :beetle:</h5>
 </div>
   
   <div display="inline-block" align="center">
@@ -23,18 +23,18 @@
     
   </div>
   <div display="inline-block" align="left">
-  <h3>📖Atualmente estou aprendendo:👇</h3>
+  <h3>📖Atualmente estou aprendendo:👇🏻</h3>
   </div>
   
   <div display="inline-block" align="left">
 
-<h5>Linguagem R 👉<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code><br>
-  Robot Framework👉<code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/472eeac53d7b016a6bf00d8ff75d274c2217887f/robot.png" width="40" height="40"/></code><p>
- Phyton👉<code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code><p> 
-  RabbitMQ👉<code><img src="https://user-images.githubusercontent.com/116013992/209855479-5e59cee9-8138-46c2-8ec0-6edf528fe7be.png" width="40" height="40"/></code><p>
-  Java👉<code><img src="pngwing.com (1).png" width="40" height="40"/></code><p>
-  Machine learning    👉🧠<p>
-  Deep learning👉🦾<p>
+<h5>Linguagem R 👉🏻<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code><br>
+  Robot Framework👉🏻<code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/472eeac53d7b016a6bf00d8ff75d274c2217887f/robot.png" width="40" height="40"/></code><p>
+ Phyton👉🏻<code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code><p> 
+  RabbitMQ👉🏻<code><img src="https://user-images.githubusercontent.com/116013992/209855479-5e59cee9-8138-46c2-8ec0-6edf528fe7be.png" width="40" height="40"/></code><p>
+  Java👉🏻<code><img src="pngwing.com (1).png" width="40" height="40"/></code><p>
+  Machine learning    👉🏻🧠<p>
+  Deep learning👉🏻🦾<p>
     </h5><hr>
     
 <!-- <div style="height:30px">
