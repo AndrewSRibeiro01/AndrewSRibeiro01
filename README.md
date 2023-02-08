@@ -62,7 +62,7 @@ target="animated-image.originalImage">
      
      
   <h3> Fatos sobre mim</h3>
-<h5>🪢Branca e vermelha no muai thay, gosto de musculação, faço faculdade de Gestão da tecnologia da informação, estou sempre buscando novos conhecimentos!<br> <hr>
+<h5>🪢Branca e vermelha no muai thay e branca no jiu jitsu, gosto de musculação, faço faculdade de Gestão da tecnologia da informação, estou sempre buscando novos conhecimentos!<br> <hr>
 Obs: Coisas que sempre ouvimos 👇🏻<br> 
 "Na minha maquina funciona."🙄🤯😡
 <br></h5>
