@@ -10,6 +10,9 @@
   </a> 
   <a href="https://www.linkedin.com/in/andrew-souza-ab776623b/">
     <img width="50px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-linkedin-480.png">
+     <a href="https://portifolio-andrew.netlify.app/">
+    <img width="50px" src="FavLivro.png.png">
+       
 <div display="inline-block" align="center">
   
 <h2>Seja bem vindo ao meu perfil do GitHub:smiley:</h2> 
