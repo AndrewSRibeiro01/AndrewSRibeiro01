@@ -17,17 +17,12 @@
   
 <h2>Seja bem vindo ao meu perfil do GitHub:smiley:</h2> 
 <div display="inline-block" align="left">
-<h5>👉🏻 Tenho 24 anos, moro em Guarulhos/SP trabalho como Quality Assurence :mag: :beetle:</h5>
+<h5>Tenho 24 anos, moro em Guarulhos/SP trabalho como Quality Assurence :mag: :beetle:</h5>
 </div>
   
   <div display="inline-block" align="center">
     
   <img width="350px" src="https://user-images.githubusercontent.com/116013992/209679421-2c29b657-e4bd-4675-9a91-1d74a7ad6909.png">
-    
-  </div>
-  <div display="inline-block" align="left">
-  <h3>📖Atualmente estou aprendendo:👇🏻</h3>
-  </div>
   
   <div display="inline-block" align="left">
   
@@ -35,7 +30,7 @@
   <h3>:computer:Minhas Tecnologias e Ferramentas🛠️</h3>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></code>
+   <code><img src="react.png" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></code>
