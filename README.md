@@ -12,8 +12,8 @@
     <img width="50px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-linkedin-480.png">
      <a href="https://andrew-dev.netlify.app/">
     <img width="50px" src="FavLivro.png.png">
-       <a href="https://patroa-imports.vercel.app/">
-         <img width="50px" src="https://integrum.inf.br/wp-content/uploads/projeto.png">
+       <a href="https://patroa-imports.vercel.app/"> 
+         <p>Projeto Patrôa<p>
        
 <div display="inline-block" align="center">
   
