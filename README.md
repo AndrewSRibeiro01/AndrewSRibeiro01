@@ -12,6 +12,8 @@
     <img width="50px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-linkedin-480.png">
      <a href="https://andrew-dev.netlify.app/">
     <img width="50px" src="FavLivro.png.png">
+       <a href="https://patroa-imports.vercel.app/">
+         <img width="50px" src="https://i0.wp.com/gestaodesegurancaprivada.com.br/wp-content/uploads/definicoes-e-cocneitos-de-projeto.jpg?w=720&ssl=1">
        
 <div display="inline-block" align="center">
   
