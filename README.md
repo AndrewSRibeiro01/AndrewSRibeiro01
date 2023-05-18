@@ -19,7 +19,7 @@
   
 <h2>Seja bem vindo ao meu perfil do GitHub:smiley:</h2> 
 <div display="inline-block" align="left">
-<h5>Tenho 24 anos, moro em Guarulhos/SP trabalho como Quality Assurence :mag: :beetle:</h5>
+<h5>Tenho 24 anos, moro em Guarulhos/SP trabalho como Quality Assurance :mag: :beetle:</h5>
 </div>
   
   <div display="inline-block" align="center">
