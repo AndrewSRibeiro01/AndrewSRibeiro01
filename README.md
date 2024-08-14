@@ -24,7 +24,7 @@
   <div display="inline-block" align="left">
   
   <div display="inline-block" align="center">
-  <h3>:computer:Minhas Tecnologias e Ferramentas🛠️</h3>
+<!--   <h3>:computer:Minhas Tecnologias e Ferramentas🛠️</h3>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
    <code><img src="react.png" width="40" height="40"/></code>
@@ -38,5 +38,5 @@
    <code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code>
    <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code>
     <hr>
-<br></h5>
+<br></h5> -->
 </div>
