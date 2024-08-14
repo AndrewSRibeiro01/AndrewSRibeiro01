@@ -2,7 +2,7 @@
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px; height:30px;"> Oi, me chamo Andrew </h1>
   
   <div style="height:30px">
-  <img src="http://media.giphy.com/media/EOpZ7XsVfTN2E/giphy.gif" alt="Dino" style="width: 500px; height:250px ; display: inline-block;" data-target="animated-image.originalImage">
+<!--   <img src="http://media.giphy.com/media/EOpZ7XsVfTN2E/giphy.gif" alt="Dino" style="width: 500px; height:250px ; display: inline-block;" data-target="animated-image.originalImage"> -->
 </div>
   
   <a href="https://www.instagram.com/andrew_srb/">
