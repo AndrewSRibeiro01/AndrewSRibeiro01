@@ -1,42 +1,45 @@
-<div align="center" display="inline-block">
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 30px; height:30px;"> Oi, me chamo Andrew </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8937d7&height=120&section=header"/>
   
-  <div style="height:30px">
-<!--   <img src="http://media.giphy.com/media/EOpZ7XsVfTN2E/giphy.gif" alt="Dino" style="width: 500px; height:250px ; display: inline-block;" data-target="animated-image.originalImage"> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8937d7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Andrew+Souza!;I'm+26+years+old;I+am+from+Guarulhos,+SP;FullStack+Developer;I+study+programming+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndrewSRibeiro01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andrew github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSRibeiro01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-  
-  <a href="https://www.instagram.com/andrew_srb/">
-    <img width="50px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-instagram-3000.png" 
-  </a> 
-  <a href="https://www.linkedin.com/in/andrew-souza-ab776623b/">
-    <img width="50px" src="https://github.com/BruFS99/BruFS99/blob/main/icons8-linkedin-480.png">
-     <a href="https://andrew-dev.netlify.app/">
-    <img width="50px" src="FavLivro.png.png">
-       
-<div display="inline-block" align="center">
-  
-<h2>Seja bem vindo ao meu perfil do GitHub :smiley: </h2> 
-<div display="inline-block" align="left">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewSRibeiro01&bg_color=000000&color=8937d7&line=a575d3&point=8937d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrewSRibeiro01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+  <a href="https://www.instagram.com/andrew_srb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "andrewsouza57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrew-souza-ab776623b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  <div display="inline-block" align="center">
-    
-  <div display="inline-block" align="left">
-  
-  <div display="inline-block" align="center">
-<!--   <h3>:computer:Minhas Tecnologias e Ferramentas🛠️</h3>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
-   <code><img src="react.png" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></code>
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></code>
-   <code><img src="img cypres.jpg" width="40" height="40"/></code>
-   <code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/main/postman-icon.webp" width="40" height="40"/></code>
-   <code><img src="https://raw.githubusercontent.com/AndrewSRibeiro01/AndrewSRibeiro01/472eeac53d7b016a6bf00d8ff75d274c2217887f/robot.png" width="40" height="40"/></code>
-   <code><img src="https://images.squarespace-cdn.com/content/v1/556c9bf4e4b0de57cb590a0f/1433275776438-8AOXJ85ZC7Q3ASU01PFV/python.png" width="40" height="40"/></code>
-   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVR4HjNQ8Od2prGPC9jjK7dmUW5uUMlCWukA&usqp=CAU" width="40" height="40"/></code>
-    <hr>
-<br></h5> -->
-</div>
+
+<p align="left">
+  <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQE_NC84-6dHAg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724178977305?e=1743033600&v=beta&t=Vhyf1iDRcsAxE3-hzdlMNhcG-CG8cnrZcLq4VibQq4c" alt="Imagem">
+</p>
+ 
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndrewSRibeiro01}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8937d7&height=120&section=footer"/>
