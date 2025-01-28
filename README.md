@@ -23,15 +23,32 @@
   <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQE_NC84-6dHAg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724178977305?e=1743033600&v=beta&t=Vhyf1iDRcsAxE3-hzdlMNhcG-CG8cnrZcLq4VibQq4c" alt="Imagem">
 </p>
  
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Front-End:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TaiwindCss](https://img.shields.io/badge/-TaiwindCss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+ ### Back-End:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.JS-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
+
+### library:
+![Material Ui](https://img.shields.io/badge/-Material.ui-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Swiper Slide](https://img.shields.io/badge/-SwiperSlide-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React Icons](https://img.shields.io/badge/-ReactIcons-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![typewriter effect](https://img.shields.io/badge/-typewriter%20effect-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
