@@ -54,6 +54,7 @@
 ![Cypress.io](https://img.shields.io/badge/-Cypress.io-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Cucumber.io](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117&textColor=0D1117)&nbsp;
+![RobotFramework](https://img.shields.io/badge/-robot%20Framework-0D1117?style=for-the-badge&logo=RobotFramework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![BDD](https://img.shields.io/badge/-BDD-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
