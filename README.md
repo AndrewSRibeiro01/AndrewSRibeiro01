@@ -40,14 +40,21 @@
 ![Express.js](https://img.shields.io/badge/-Express.JS-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### library:
+### Library:
 ![Material Ui](https://img.shields.io/badge/-Material.ui-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Swiper Slide](https://img.shields.io/badge/-SwiperSlide-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Icons](https://img.shields.io/badge/-ReactIcons-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![typewriter effect](https://img.shields.io/badge/-typewriter%20effect-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Testing:
+![Cypress.io](https://img.shields.io/badge/-Cypress.io-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cucumber.io](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117&textColor=0D1117)&nbsp;
+![BDD](https://img.shields.io/badge/-BDD-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
