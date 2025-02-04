@@ -46,7 +46,7 @@
 ### Library:
 ![Material Ui](https://img.shields.io/badge/-Material.ui-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Styled Components](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Swiper Slide](https://img.shields.io/badge/-SwiperSlide-0D1117?style=for-the-badge&logo=styled&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Icons](https://img.shields.io/badge/-ReactIcons-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![typewriter effect](https://img.shields.io/badge/-typewriter%20effect-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
