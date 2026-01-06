@@ -2,16 +2,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8937d7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Andrew+Souza!;I'm+26+years+old;I+am+from+Guarulhos+SP;Full+Stack+Developer;I+study+programming+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndrewSRibeiro01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andrew github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSRibeiro01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndrewSRibeiro01&bg_color=000000&color=8937d7&line=a575d3&point=8937d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewSRibeiro01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://www.instagram.com/andrew_srb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,9 +68,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![linux Mint](https://img.shields.io/badge/-LinuxMint-0D1117?style=for-the-badge&logo=linuxMint&labelColor=0D1117)&nbsp;
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndrewSRibeiro01}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndrewSRibeiro01}/count.svg" /></p>  -->
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8937d7&height=120&section=footer"/>
