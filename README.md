@@ -58,6 +58,13 @@
 ![RobotFramework](https://img.shields.io/badge/-robot%20Framework-0D1117?style=for-the-badge&logo=RobotFramework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![BDD](https://img.shields.io/badge/-BDD-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Cloud:
+![PM2](https://img.shields.io/badge/-PM2-0D1117?style=for-the-badge&logo=pm2&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge)&nbsp;
+![S3](https://img.shields.io/badge/-S3-0D1117?style=for-the-badge)&nbsp;
+![EC2](https://img.shields.io/badge/-EC2-0D1117?style=for-the-badge)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-0D1117?style=for-the-badge)&nbsp;
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
