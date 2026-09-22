@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
-<a href="https://andrew-dev.netlify.app/" target="_blank">
+<a href="https://andrewdeveloper.com/lp" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8937D7" />
 </a>
 
